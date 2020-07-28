@@ -1,2 +1,4 @@
 An operating system is system software that manages computer hardware, software resources, and provides common services for computer programs. The operating system manages a computer's software hardware resources, including input devices such as keyboard, output devices such as printer and storage devices such as external drives.
 
+First operating system is Windows and its main advantage is the vast number of games offered on this oerating systems. Also there are large selection of software available for this operating systems due to its dominance in the personal computer market.
+
