@@ -2,3 +2,7 @@ An operating system is system software that manages computer hardware, software 
 
 First operating system is Windows and its main advantage is the vast number of games offered on this oerating systems. Also there are large selection of software available for this operating systems due to its dominance in the personal computer market.
 
+
+Second operating system is Mac OS and its main advantage is its security compared to windows as the number of malware/virus threats is way less than the one that can be found against Windows platform. 
+Moreover, there is great customer support and warranty programs
+
